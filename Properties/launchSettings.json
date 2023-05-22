@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AWS_Sample2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AWS_PROFILE": "default",
+        "AWS_REGION": "eu-west-3"
+      }
+    }
+  }
+}
